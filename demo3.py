@@ -1,3 +1,8 @@
+"""
+Se procede a ingresar dos datos por teclado y a realizar su suma 
+y multiplicacion.
+"""
+
 print ("Ingrese el primer valor: ") # Se ingresa el primer valor
 dato1 = input()
  

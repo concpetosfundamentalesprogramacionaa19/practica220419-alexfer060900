@@ -1,3 +1,9 @@
+"""
+Se procede a ingresar tres valores por teclado, 
+y mediante ellos realizar la operacion correspondiente
+para al final presentar valores.
+"""
+
 x = input("Ingrese el valor de x: ")
 y = input("Ingrese el valor de y: ")
 z = input("Ingrese el valor de z: ")

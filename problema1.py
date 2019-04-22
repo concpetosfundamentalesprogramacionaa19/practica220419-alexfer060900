@@ -1,3 +1,9 @@
+"""
+Se procede a ingresar el costo por hora del trabajo, y mediante este, 
+calcular el sueldo mensual, asi como el descuento 
+de la seguridad social.
+"""
+
 horas = 100
 costohora = input("Ingrese por favor el costo hora oficial: ")
         
